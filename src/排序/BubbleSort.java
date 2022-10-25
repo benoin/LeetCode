@@ -7,7 +7,7 @@ package 排序;
  * 冒泡排序
  * 排序算法 平均时间复杂度 最坏时间复杂度 最好时间复杂度 空间复杂度 稳定性
  * 冒泡排序    O(n²)       O(n²)       O(n)       O(1)    稳定
- * 1111111111111
+ * 1111111111111222222222222
  */
 public class BubbleSort {
     static void bubbleSort(int[] nums) {
